@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>me.potaytoprograms</groupId>
   <artifactId>Pixi</artifactId>
-  <version>0.6.2-OLD</version>
+  <version>0.6.2</version>
   <description>POM was created from install:install-file</description>
 </project>
