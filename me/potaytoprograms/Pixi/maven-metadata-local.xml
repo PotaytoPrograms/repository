@@ -4,7 +4,7 @@
   <artifactId>Pixi</artifactId>
   <versioning>
     <release>0.6.2</release>
-	<snapshot>0.1</snapshot>
+	<release>0.1</release>
     <versions>
       <version>0.6.2</version>
 	  <version>0.1</version>
