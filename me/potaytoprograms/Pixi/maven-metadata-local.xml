@@ -3,9 +3,9 @@
   <groupId>me.potaytoprograms</groupId>
   <artifactId>Pixi</artifactId>
   <versioning>
-    <release>0.6.2-OLD, 0.1-SNAPSHOT</release>
+    <release>0.6.2-OLD</release>
     <versions>
-      <version>0.6.2-OLD, 0.1-SNAPSHOT</version>
+      <version>0.6.2-OLD</version>
     </versions>
     <lastUpdated>20201001005444</lastUpdated>
   </versioning>
