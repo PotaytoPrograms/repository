@@ -5,12 +5,7 @@
   <versioning>
     <release>0.6.2-OLD</release>
     <versions>
-      <version>0.6.2-OLD</version>
-    </versions>
-	<release>0.1-SNAPSHOT</release>
-	<versions>
-		<version>0.1-SNAPSHOT</version>
-	</versions>
+      <version>0.6.2-OLD</version>	
     <lastUpdated>20201001005444</lastUpdated>
   </versioning>
 </metadata>
